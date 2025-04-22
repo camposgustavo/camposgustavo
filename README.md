@@ -1,7 +1,7 @@
 # Gustavo Campos 
 Estudante de Ciência da Computação, motivado a explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Possuo projetos desenvolvidos com uma variedade de tecnologias, incluindo Python, HTML, CSS e JavaScript.
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/insilva-gustavo565/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silva-gustavo565/) 
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=ffdd54)
